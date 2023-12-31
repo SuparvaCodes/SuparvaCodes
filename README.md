@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @SuparvaCodes
-- 👀 I’m interested in ... JavaScript,HTML, CSS, NodeJs, Firebase, PHP etc.
-- 🌱 I’m currently learning ... JAVA.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... My email suparvabaranwal4@gmail.com
+# Welcome to My GitHub! 👋
 
-<!---
-SuparvaCodes/SuparvaCodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Contact Information
+📧 **Email:** [suparva@outlook.in](mailto:suparva@outlook.in)
+
+## Projects
+Explore my projects and contributions. Feel free to reach out with any questions or collaboration ideas!
+
+## Website
+🌐 **Website:** [API Junction](https://apijunction.online)
+
+🚧 *Currently under construction, but stay tuned for exciting updates!*
+
+## About Me
+I'm a passionate coder exploring the realms of web development and beyond. Eager to learn, collaborate, and contribute to the coding community. Let's build something amazing together! 🚀
